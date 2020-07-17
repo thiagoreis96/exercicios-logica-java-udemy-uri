@@ -1,4 +1,4 @@
-# exercicios_logica_java_udemy_uri
+# Exercícios de lógica de programação resolvidos em Java
 
 43 exercícios de lógica de programação em Java.
 
