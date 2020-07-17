@@ -1,0 +1,28 @@
+package estrutura_sequencial;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+public class Uri1010 {
+	public static void main(String[] args) {
+	
+	Locale.setDefault(Locale.US);
+	Scanner sc = new Scanner(System.in);
+	
+	int cp1, np1, cp2, np2;
+	double vp1, vp2, vt;
+	
+	cp1 = sc.nextInt();
+	np1 = sc.nextInt();
+	vp1 = sc.nextDouble();
+	cp2 = sc.nextInt();
+	np2 = sc.nextInt();
+	vp2 = sc.nextDouble();
+	
+	vt = np1 * vp1 + np2 * vp2;
+	
+	System.out.printf("VALOR A PAGAR: R$ %.2f%n", vt);
+	
+	sc.close();
+	}
+}
