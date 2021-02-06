@@ -1,3 +1,2 @@
-INDEX VERSION 1.131+C:\development\logica_java_udemy\.metadata\.plugins\org.eclipse.jdt.core
-3543422066.index
+INDEX VERSION 1.131+C:\Temp\ws-eclipse\exercicios-logica-java-udemy-uri\.metadata\.plugins\org.eclipse.jdt.core
 2881319984.index
