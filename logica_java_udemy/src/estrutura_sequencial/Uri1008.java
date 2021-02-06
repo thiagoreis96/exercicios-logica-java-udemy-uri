@@ -1,3 +1,9 @@
+/* 
+ * Para não poluir esta página, não coloquei o enunciado do exercício aqui.
+ * Caso deseje ver o enunciado do mesmo, por favor utilize o link abaixo.
+ * Link: https://www.urionlinejudge.com.br/judge/pt/problems/view/1008
+ */
+
 package estrutura_sequencial;
 
 import java.util.Locale;
