@@ -16,6 +16,5 @@ public class Uri1004 {
 		System.out.println("PROD = " + PROD);
 		
 		sc.close();
-		
 	}
 }

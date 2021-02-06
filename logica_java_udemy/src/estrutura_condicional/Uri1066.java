@@ -69,6 +69,5 @@ public class Uri1066 {
 		System.out.println(somaNegativo + " valor(es) negativo(s)");
 		
 		sc.close();
-	
 	}
 }

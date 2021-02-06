@@ -20,6 +20,5 @@ public class Uri1008 {
 		System.out.printf("SALARY = U$ %.2f%n", salary);
 		
 		sc.close();
-		
 	}
 }

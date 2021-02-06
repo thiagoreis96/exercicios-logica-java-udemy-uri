@@ -18,6 +18,5 @@ public class Uri1005 {
 		System.out.printf("MEDIA = %.5f%n", MEDIA);
 		
 		sc.close();
-		
 	}
 }
