@@ -1,0 +1,22 @@
+package estrutura_condicional;
+
+import java.util.Scanner;
+import java.util.Locale;
+
+public class A {
+	
+	public static void main(String[] atgs) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		int x = sc.nextInt();
+		
+		if (x <= 100) {
+			System.out.println("Valor a pagar: R$ 50.00");
+		} else {
+			double N = (x - 100.00) * 2;
+			System.out.printf("Valor a pagar: R$: %.2f%n", N);
+		}
+		sc.close();
+	}
+}
