@@ -1,0 +1,27 @@
+package estrutura_sequencial;
+
+import java.util.Scanner;
+
+public class Uri1020 {
+
+	public static void main(String[] args) {
+
+		Scanner sc = new Scanner(System.in);
+
+		int x, anos, meses, dias, resto;
+		
+		N = sc.nextInt();
+		
+		anos = x / 365;
+		resto = x % 365;
+		meses = resto / 30;
+		dias = resto % 30;
+		
+		System.out.println(anos + " ano(s)");
+		System.out.println(meses + " mes(es)");
+		System.out.println(dias + " dia(s)");
+		
+		sc.close();
+	}
+}
+© 2021 GitHub, Inc.
