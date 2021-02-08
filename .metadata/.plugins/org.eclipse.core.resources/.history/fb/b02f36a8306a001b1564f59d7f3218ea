@@ -1,0 +1,16 @@
+package estrutura_condicional;
+
+import java.util.Scanner;
+
+public class Uri1042 {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		int a, b, c;
+		
+		a = sc.nextInt();
+		
+	}
+}

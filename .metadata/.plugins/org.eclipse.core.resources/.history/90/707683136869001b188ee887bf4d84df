@@ -1,8 +1,0 @@
-package estrutura_condicional;
-
-public class A {
-	
-	public static void main(String[] atgs) {
-		
-	}
-}
