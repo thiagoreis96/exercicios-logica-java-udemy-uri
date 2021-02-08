@@ -3,7 +3,7 @@ package estrutura_condicional;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Uri1040 {
+public class Main {
 
 	public static void main(String[] args) {
 		
@@ -47,4 +47,5 @@ public class Uri1040 {
 		
 		sc.close();
 	}
+
 }
