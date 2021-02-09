@@ -1,6 +1,6 @@
 # Exercícios de lógica de programação resolvidos em Java
 
-43 exercícios de lógica de programação em Java.
+Exercícios de lógica de programação em Java.
 
 Os exercícios foram sugeridos no curso de lógica de programação em Java do professor Dr. Nelio Alves. 
 
