@@ -1,0 +1,13 @@
+/*
+ * 2) Faça um programa que leia N números inteiros e armazene-os em um vetor.
+ * Em seguida, mostre na tela:
+ * 
+ * - Todos os números pares.
+ * - A quantidade de números pares.
+*/
+
+package vetores;
+
+public class Vt02 {
+	public static void main(String)
+}

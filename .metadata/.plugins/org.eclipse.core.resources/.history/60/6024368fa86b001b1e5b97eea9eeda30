@@ -1,0 +1,21 @@
+package vetores;
+
+import java.util.Scanner;
+
+public class Vt03 {
+	
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		int N;
+		
+		N = sc.nextInt();
+		
+		int[] A = new int[N];
+		int[] B = new int[N];
+		int[] vet3 = new int[N];
+		
+		sc.close();
+	}
+}
