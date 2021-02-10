@@ -8,7 +8,7 @@ package estruturas_repetitivas;
 
 import java.util.Scanner;
 
-public class Uri1144 {
+public class Uri1143 {
 	
 	public static void main(String[] args) {
 		
@@ -27,8 +27,8 @@ public class Uri1144 {
 			System.out.println(cubo);
 			
 			System.out.print(contador + " ");
-			System.out.print(quadrado + 1 + " ");
-			System.out.println(cubo + 1);
+			System.out.print(quadrado + " ");
+			System.out.println(cubo);
 			contador ++;
 		}
 		

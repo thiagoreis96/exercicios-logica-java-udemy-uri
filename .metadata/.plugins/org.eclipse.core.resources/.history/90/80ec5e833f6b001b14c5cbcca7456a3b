@@ -1,14 +1,14 @@
 /* 
  * Para não poluir esta página, não coloquei o enunciado do exercício aqui.
  * Caso deseje ver o enunciado do mesmo, por favor utilize o link abaixo.
- * Link: https://www.urionlinejudge.com.br/judge/pt/problems/view/1144
+ * Link: https://www.urionlinejudge.com.br/judge/pt/problems/view/1067
  */
 
 package estruturas_repetitivas;
 
 import java.util.Scanner;
 
-public class Uri1144 {
+public class Uri1143 {
 	
 	public static void main(String[] args) {
 		
@@ -25,10 +25,6 @@ public class Uri1144 {
 			System.out.print(quadrado + " ");
 			cubo = contador * quadrado;
 			System.out.println(cubo);
-			
-			System.out.print(contador + " ");
-			System.out.print(quadrado + 1 + " ");
-			System.out.println(cubo + 1);
 			contador ++;
 		}
 		
