@@ -14,9 +14,7 @@ public class Vt03 {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		int N;
-		
-		N = sc.nextInt();
+		int N = sc.nextInt();
 		
 		int[] A = new int[N];
 		int[] B = new int[N];
