@@ -1,10 +1,5 @@
-/*
- * 4) Fazer um programa para ler um vetor de N números reais.
- * Em seguida, mostrar na tela a média aritmética de todos os elementos.
- * Depois mostrar todos os elementos do vetor que estejam abaixo da média.
- */
-
-package vetores;
+4) Fazer um programa para ler um vetor de N números reais. Em seguida, mostrar na tela a média aritmética de todos
+elementos. Depois mostrar todos os elementos do vetor que estejam abaixo da média.package vetores;
 
 import java.util.Locale;
 import java.util.Scanner;
