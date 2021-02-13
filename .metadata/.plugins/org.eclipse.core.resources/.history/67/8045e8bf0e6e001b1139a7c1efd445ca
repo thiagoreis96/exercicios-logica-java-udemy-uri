@@ -1,0 +1,11 @@
+package e_matrizes;
+
+import java.util.Scanner;
+
+public class Vt07 {
+	
+	public static void main(String[] args) {
+		
+		Scanner sc=
+	}
+}

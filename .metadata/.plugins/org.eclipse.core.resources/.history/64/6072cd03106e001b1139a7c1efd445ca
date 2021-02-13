@@ -1,0 +1,30 @@
+package e_matrizes;
+
+import java.util.Scanner;
+
+public class Mt07 {
+	
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		int M = sc.nextInt();
+		int N = sc.nextInt();
+		
+		int[][] valores = new int[M][N];
+		
+		for (int i=1; i<=M; i++) {
+			for (int j=1; j<=N; j++) {
+				valores[i][j] = sc.nextInt();
+			}
+		}
+		
+		int linha = sc.nextInt();
+		
+		for (int j=1; j<=M; j++) {
+			valores[linha][N] = valores[linha]
+		}
+		
+		sc.close();
+	}
+}

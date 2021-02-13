@@ -1,0 +1,12 @@
+package e_matrizes;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+public class Mt06 {
+	
+	public static void main(String[] args) {
+		
+		Locale.setDefault
+	}
+}
