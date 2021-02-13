@@ -14,7 +14,7 @@ uma linha, seguido do índice de uma coluna.
 
  * Saída:
  * A saída contém os valores de saída de cada ação, com uma casa decimal, na ordem em que foram apresentadas no
-enunciado.
+enunciado,.
  */
 
 package e_matrizes;

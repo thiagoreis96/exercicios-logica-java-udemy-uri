@@ -12,9 +12,8 @@ posição mais à esquerda.
 * A entrada consiste em um inteiro M representando o número de filas, um inteiro N representado a quantidade de soldados
 por fila, as M filas de soldados (cada soldado é representado por um número inteiro), e o número inteiro para o exercício
 "girar fila".
-
-* Saída:
-* A saída contém a formação do pelotão após a execução do exercício "girar fila".
+Saída:
+A saída contém a formação do pelotão após a execução do exercício "girar fila".
  */
 
 package e_matrizes;

@@ -14,7 +14,7 @@ por fila, as M filas de soldados (cada soldado é representado por um número inte
 "girar fila".
 
 * Saída:
-* A saída contém a formação do pelotão após a execução do exercício "girar fila".
+A saída contém a formação do pelotão após a execução do exercício "girar fila".
  */
 
 package e_matrizes;
