@@ -1,0 +1,24 @@
+package e_matrizes;
+
+import java.util.Scanner;
+
+public class Mt04 {
+	
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		int N = sc.nextInt();
+		
+		int[][] valores = new int[N][N];
+		
+		for (int i=0; i<N; i++) {
+			for (int j=1; j<=N; j++) {
+				valores[i]
+				System.out.println(valores);
+			}
+		}
+		
+		sc.close();
+	}
+}

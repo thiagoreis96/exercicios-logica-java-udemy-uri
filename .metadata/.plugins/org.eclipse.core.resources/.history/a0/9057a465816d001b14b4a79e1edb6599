@@ -1,0 +1,42 @@
+/*
+ * 1) Ler dois números M e N, e depois ler uma matriz MxN de números inteiros.
+ * Em seguida, mostrar na tela somente os números negativos da matriz.
+ * Entrada:
+ * A entrada contém os números M e N na mesma linha, depois os dados da matriz.
+Saída:
+A saída contém uma mensagem e depois os números negativos da matriz, conforme exemplo.
+ */
+
+package matrizes;
+
+import java.util.Scanner;
+
+public class Mt03 {
+	
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		int N = sc.nextInt();
+		
+		int[][] valores = new int[N][N];
+		
+		for (int i=0; i<N; i++) {
+			for (int j=0; j<N; j++) {
+				valores[i][j] = sc.nextInt();
+			}
+		}
+		
+		for (int i=0; i<N; i++) {
+			int maior = 0;
+			for (int j=0; j<N; j++) {
+				if (valores[i][j] > maior) {
+					maior = valores[i][j];
+				}
+			}
+			System.out.println(maior);
+		}
+		
+		sc.close();
+	}
+}

@@ -1,0 +1,30 @@
+package matrizes;
+
+import java.util.Scanner;
+
+public class Mt01 {
+	
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		int M = sc.nextInt();
+		int N = sc.nextInt();
+		
+		int[][] valores = new int[M][N];
+		
+		for (int i=0; i<M; i++) {
+			for (int j=0; i<N; j++) {
+				valores[M][N] = sc.nextInt();
+				if (valores[i][j] < 0) {
+					System.out.println(valores[M][N]);
+				}
+			}
+		}
+			for (int i=0; i<M; i++) {
+				for (int j=0; j<N, j)
+			}
+		
+		sc.close();
+	}
+}

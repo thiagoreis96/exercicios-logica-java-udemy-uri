@@ -1,0 +1,23 @@
+package e_matrizes;
+
+import java.util.Scanner;
+
+public class Mt05 {
+	
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		int M = sc.nextInt();
+		int N = sc.nextInt();
+		
+		int[][] A = new int[M][N];
+		int[][] B = new int[M][N];
+		int[][] C = new int[M][N];
+		
+		for (int i)
+		
+		
+		sc.close();
+	}
+}
