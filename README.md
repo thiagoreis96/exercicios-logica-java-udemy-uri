@@ -7,6 +7,6 @@ Link do curso: https://www.udemy.com/course/java-curso-logica-de-programacao/
 
 Os primeiros 60 (20 com estruturas sequenciais, 20 com estruturas condicionais e 20 com estruturas repetitivas) podem ser conferidos na plataforma Uri Online Judge.
 
-Os outros 16 (9 com vetores e 7 com matrizes) foram criados pelo professor Dr. Nelio Alves, por isso coloquei os enunciados dos mesmos acima dos códigos.
+Os outros 16 (9 com vetores e 7 com matrizes) foram criados pelo professor, por isso coloquei os enunciados dos mesmos acima dos códigos.
 
 Todos foram resolvidos por mim.
